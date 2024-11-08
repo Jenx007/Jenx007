@@ -26,4 +26,4 @@ I’m open to collaborating on projects involving:
 - IoT automation and robotics projects
 
 ### 📫 Connect with Me
-Feel free to reach out if you'd like to collaborate or just want to say hi! You can contact me via email or on LinkedIn.
+Feel free to reach out if you'd like to collaborate or just want to say hi! You can contact me via email antaojens126@gmail.com or on LinkedIn.
