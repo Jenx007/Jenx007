@@ -2,7 +2,7 @@
 # 👋 Hi, I’m @Jens!
 
 ### 👀 About Me
-I'm a passionate and motivated final-year IT graduate with a strong interest in full-stack development, Machine learning, data science, and IoT solutions. I enjoy tackling challenging problems and building innovative solutions, especially those that bring together automation and data analytics.
+I'm a passionate and motivated final-year IT graduate with a strong interest in full-stack development, Machine learning, data science, and IoT solutions. I enjoy tackling challenging problems and building innovative solutions, especially those that involve automation.
 
 ### 🌱 What I’m Currently Learning
 I'm always eager to expand my skill set! Currently, I’m diving deeper into:
